@@ -44,7 +44,7 @@ a {
 .home {
     height: 100vh;
     text-shadow: 0 0 7px white;
-    background-image: url("/images/jk-gJhev0YgUcE-unsplash.jpg");
+    background-image: url("images/jk-gJhev0YgUcE-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
